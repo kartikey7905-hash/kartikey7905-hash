@@ -11,17 +11,17 @@ hobbies: [Competitive Programming, Building Projects, Cricket]
 ```
 
 
-### 🚀 About Me
+###About Me
 
-- 💻 I'm a Computer Science Undergrad at **NIT Durgapur** (@SAIC).
-- 🧠 I am deeply passionate about **Web Development** and **Algorithmic Problem Solving**.
-- 🏆 Actively doing Competitive Programming to sharpen my logic.
-- 📫 How to reach me: **kartikey7905@gmail.com**
-- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/kartikey-kanaujiya-48b35b381/)
+-  I'm a Computer Science Undergrad at **NIT Durgapur** (@SAIC).
+-  I am deeply passionate about **Web Development** and **Algorithmic Problem Solving**.
+-  Actively doing Competitive Programming to sharpen my logic.
+-  How to reach me: **kartikey7905@gmail.com**
+-  Let's connect on [LinkedIn](https://www.linkedin.com/in/kartikey-kanaujiya-48b35b381/)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -37,5 +37,5 @@ hobbies: [Competitive Programming, Building Projects, Cricket]
 
 ---
 
-### 🔥 My Coding Streak
+###  My Coding Streak
 ![Kartikey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikey7905-hash&theme=radical&hide_border=true)
