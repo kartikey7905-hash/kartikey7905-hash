@@ -28,6 +28,9 @@ hobbies: [Competitive Programming, Building Projects, Cricket]
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+**Core Fundamentals:**
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-%23FFD700.svg?style=for-the-badge&logo=algorithm&logoColor=black)
+
 **Web Development:**
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
