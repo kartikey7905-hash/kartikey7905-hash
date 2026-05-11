@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Kartikey
 
-<!--
-**kartikey7905-hash/kartikey7905-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+TRAINER INFO
+name: Kartikey Kanaujiya
+located_in: [Durgapur, India 🇮🇳]
+position: [CS Undergrad]
+education: [NIT Durgapur]
+currently_learning: [Web Development, Advanced Algorithms]
+hobbies: [Competitive Programming, Building Projects, Cricket]
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💻 I'm a Computer Science Undergrad at **NIT Durgapur** (@SAIC).
+- 🧠 I am deeply passionate about **Web Development** and **Algorithmic Problem Solving**.
+- 🏆 Actively doing Competitive Programming to sharpen my logic.
+- 📫 How to reach me: **kartikey7905@gmail.com**
+- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/kartikey-kanaujiya-48b35b381/)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Web Development:**
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🔥 My Coding Streak
+![Kartikey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikey7905-hash&theme=radical&hide_border=true)
