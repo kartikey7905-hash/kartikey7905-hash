@@ -22,6 +22,7 @@ hobbies: [Competitive Programming, Building Projects, Cricket]
 ---
 
 ###  Tech Stack & Tools
+---
 
 **Languages:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -34,6 +35,25 @@ hobbies: [Competitive Programming, Building Projects, Cricket]
 **Web Development:**
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+### 🤖 Technologies & Frameworks
+---
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,ae&theme=dark" />
+</p>
+
+---
+### Competitive Programming
+---
+
+**Platform Profiles:**
+- 🔴 **Codeforces:** [kanaujiyakartikey](https://codeforces.com/profile/kanaujiyakartikey)
+- 🟡 **CodeChef:** [warm_shine_49](https://www.codechef.com/users/warm_shine_49)
+- 🔵 **LeetCode:** [kartikey7905_](https://leetcode.com/u/kartikey7905_/)
+
+---
 
 ---
 
